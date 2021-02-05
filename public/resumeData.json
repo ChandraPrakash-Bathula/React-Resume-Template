@@ -1,0 +1,75 @@
+{
+  "main": {
+    "name": "Chandu",
+    "occupation": "Full Stack Web Developer",
+    "description": "Full Stack Developer and UI/UX Designer.",
+    "image": "my.jpg",
+    "bio": "My name is Chandra Prakash, I'm a Full Stack ReactJS Developer.",
+    "email": "chandunaidu270.b@gmail.com",
+    "address": {
+      "street": "Opp.More,Suncity",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500091"
+    },
+
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chandra-prakash-8185a7184/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chandu270",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "degree": "Bachelor's Degree, Electronics and Computer Engineering",
+        "graduation": "Aug 2021",
+        "description": "A Determined Learner."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70.%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Take Away",
+        "category": "Food Delivery Website Using React and node js.",
+        "image" : "Project2.jpg"
+      },
+      {
+        "title": "Smart Home",
+        "category": "A Bluetooth connector device For controlling electronic appliances",
+        "image" : "Project1.jpg"
+      }
+    ]
+  }
+}
